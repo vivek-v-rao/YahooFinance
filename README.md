@@ -1,2 +1,2 @@
 # YahooFinance
-Python scripts to historical quotes from Yahoo Finance
+Python scripts to historical intraday quotes from Yahoo Finance
